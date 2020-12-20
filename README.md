@@ -1,4 +1,4 @@
 # covid-19-greece
 
-### This is a visual representation of the pandemic in Greece
-### The data have been hardcoded directly from the daily covid-19 records, which are shared by EODY
+This is a visual representation of the pandemic in Greece
+Data have been hardcoded on the script and they are available on the daily covid-19 records, shared by EODY greece
