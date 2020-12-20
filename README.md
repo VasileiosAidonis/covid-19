@@ -5,5 +5,5 @@ Data have been hardcoded on the script and they are available on the daily covid
 shared by Hellenic National Public Health Organization [(EODY)](https://eody.gov.gr/) and they can be found [here](https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/).
 
 #
-Data are saved into lists starting from 1st November till 20 December, while the User has the option #<br/> 
+Data are saved into lists starting from 1st November till 20 December, while the User has the option<br/> 
 to adjust their starting point **(the "from" part)**.
