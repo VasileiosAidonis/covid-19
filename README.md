@@ -6,5 +6,5 @@ shared by Hellenic National Public Health Organization [(EODY)](https://eody.gov
 
 # 
 
-Data start from 1st November till 20 December and the User has the option to adjust the starting point<br/>
-of their representation **(the "from" part)**
+Data start from 1st November till 20 December and the User has the option to adjust their<br/> 
+starting point **(the "from" part)**
