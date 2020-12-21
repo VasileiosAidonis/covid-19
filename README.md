@@ -9,8 +9,8 @@ Data are saved into lists starting from 1st November till 20 December, while the
 to adjust their starting point **(the "from" part)**.
 
 User also has the option to "utilize" an adjustment regarding the weekends *(Saturday and Sunday)* in<br/>
-order to generate a finer percentage graph, since percentages do not seem to be able to generalize for<br/>
-the whole population, due to the fact that Tests drop significantly at the weekends. 
+order to generate a finer percentage graph, since percentages do not seem to accurately generalize for<br/>
+the whole population, due to the fact that the number of Test drop significantly at the weekends. 
 
 :heavy_check_mark: adjust_weekends = 
 ```diff 
