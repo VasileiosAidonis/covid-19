@@ -24,7 +24,7 @@ whole population, due to the fact that Tests drop significantly at the weekends.
 ```
 ![Image](/images/Percentage_graph.jpg)
 
-The next three graphs represent the: 
+The next three graphs represent: 
 - **Tests that were made by EODY** *(without counting the rapid tests)* 
 - **People died due to coronavirus**
 - **Intubated patients**
