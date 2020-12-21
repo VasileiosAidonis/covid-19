@@ -32,5 +32,4 @@ The next three graphs represent:
 ![Image](/images/Tests.jpg)
 ![Image](/images/Deaths.jpg)
 ![Image](/images/Intubated_patients.jpg)
-
 #
