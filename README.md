@@ -22,7 +22,7 @@ the whole population, due to the fact that the number of Tests drop significantl
 ```diff 
 - False 
 ```
-![Image](/images/Percentage_graph.jpg)
+![Image](/images/Percentage_graph_na.jpg)
 
 The next three graphs represent: 
 - **Tests that were made by EODY** *(without counting the rapid tests)* 
