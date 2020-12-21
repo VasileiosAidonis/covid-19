@@ -10,7 +10,7 @@ to adjust their starting point **(the "from" part)**.
 
 User also has the option to "utilize" an adjustment regarding the weekends *(Saturday and Sunday)* in<br/>
 order to generate a finer percentage graph, since percentages do not seem to accurately generalize for<br/>
-the whole population, due to the fact that the number of Test drop significantly at the weekends. 
+the whole population, due to the fact that the number of Tests drop significantly at the weekends. 
 
 :heavy_check_mark: adjust_weekends = 
 ```diff 
