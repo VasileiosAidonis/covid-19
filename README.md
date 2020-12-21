@@ -13,8 +13,11 @@ order to get a finer percentage graph since percentages do NOT seem to be able t
 whole population, due to the fact that Tests drop significantly at the weekends. 
 
 :heavy_check_mark: adjustment = True
+
 ![Image](/images/Percentage_graph.jpg)
+
 :x: adjustment = False
+
 ![Image](/images/Percentage_graph.jpg)
 
 
