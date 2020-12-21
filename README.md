@@ -16,12 +16,6 @@ whole population, due to the fact that Tests drop significantly at the weekends.
 ```diff 
 + True 
 ```
-
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
-
 ![Image](/images/Percentage_graph.jpg)
 
 :x: adjustment = False
