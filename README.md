@@ -7,3 +7,5 @@ shared by Hellenic National Public Health Organization [(EODY)](https://eody.gov
 #
 Data are saved into lists starting from 1st November till 20 December, while the User has the option<br/> 
 to adjust their starting point **(the "from" part)**.
+
+![Image](images/Tests.jpg)
