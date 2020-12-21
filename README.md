@@ -9,3 +9,6 @@ Data are saved into lists starting from 1st November till 20 December, while the
 to adjust their starting point **(the "from" part)**.
 
 ![Image](images/Tests.jpg)
+![Image](images/Percentage_graph.jpg)
+![Image](/images/Deaths.jpg)
+![Image](images/Intubated_patients.jpg)
