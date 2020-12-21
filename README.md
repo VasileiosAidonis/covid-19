@@ -18,8 +18,10 @@ whole population, due to the fact that Tests drop significantly at the weekends.
 ```
 ![Image](/images/Percentage_graph.jpg)
 
-:x: adjustment = False
-
+:x: adjustment =
+```diff 
+- False 
+```
 ![Image](/images/Percentage_graph.jpg)
 
 
