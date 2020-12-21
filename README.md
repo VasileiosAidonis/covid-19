@@ -28,6 +28,7 @@ The next three graphs represent the:
 - **Tests that were made by EODY** *(without counting the rapid tests)* 
 - **People died due to coronavirus**
 - **Intubated patients**
+
 ![Image](/images/Tests.jpg)
 ![Image](/images/Deaths.jpg)
 ![Image](/images/Intubated_patients.jpg)
