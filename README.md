@@ -12,7 +12,9 @@ User also has the option to "utilize" an adjustment regarding the weekends *(Sat
 order to get a finer percentage graph since percentages do NOT seem to be able to generalize for the<br/> 
 whole population, due to the fact that Tests drop significantly at the weekends. 
 
-:heavy_check_mark: adjustment = ```diff + True ```
+:heavy_check_mark: adjustment = ```diff 
++ True 
+```
 
 ```diff
 + this text is highlighted in green
